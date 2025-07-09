@@ -83,7 +83,7 @@ const About = () => {
               <div className="bg-gradient-to-r from-teal-50 to-teal-100 p-4 lg:p-6 rounded-xl lg:rounded-2xl border-l-4 border-teal-600">
                 <p className="font-medium text-black mb-2">Led by Innovation</p>
                 <p className="text-sm lg:text-base">
-                  Under the leadership of <strong className="text-teal-700">Zahid Mittha, Founder & CEO</strong>, our team combines deep technical expertise with a passion for innovation. We've earned recognition through multiple academic awards and consistently deliver solutions that exceed expectations.
+                  Under the leadership of <strong className="text-teal-700">Sami Ur Rehman, Founder & CEO</strong>, our team combines deep technical expertise with a passion for innovation. We've earned recognition through multiple academic awards and consistently deliver solutions that exceed expectations.
                 </p>
               </div>
               
