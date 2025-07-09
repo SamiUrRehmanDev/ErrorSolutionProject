@@ -1,14 +1,13 @@
 import { useState } from 'react';
 import { Award, Users, Target, Sparkles, Linkedin, Github, Mail, Star, Code, Brain, Eye } from 'lucide-react';
-
 const Team = () => {
   const [hoveredMember, setHoveredMember] = useState<number | null>(null);
 
   const teamMembers = [
     {
-      name: "Zahid Mittha",
+      name: "Sami Ur Rehman",
       role: "Founder & CEO",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "miansami.jpeg",
       bio: "Visionary AI researcher and developer, known for pioneering work in machine learning and computer vision. Recipient of multiple academic awards and a published contributor to cutting-edge AI research.",
       specialties: ["AI Researcher", "Full Stack Development", "Research"],
       achievements: ["3× Academic Awards", "5× Champion in Coding & AI Competitions", "AI Research Pioneer"],
@@ -21,9 +20,9 @@ const Team = () => {
       icon: Brain
     },
     {
-      name: "Sarah Chen",
+      name: "Armghan Ahmad",
       role: "Lead AI Engineer",
-      image: "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "armghan_ahmad.jpg",
       bio: "Expert in neural networks and deep learning with a passion for solving complex problems through innovative AI solutions.",
       specialties: ["Deep Learning", "Neural Networks", "Computer Vision"],
       achievements: ["PhD in AI", "20+ Research Papers", "Industry Expert"],
@@ -36,9 +35,9 @@ const Team = () => {
       icon: Code
     },
     {
-      name: "Marcus Rodriguez",
+      name: "Muhammad Zahid",
       role: "Full Stack Architect",
-      image: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "Muhammad_zahid_jpg",
       bio: "Full-stack developer with expertise in modern web technologies and scalable system architecture.",
       specialties: ["React", "Node.js", "Cloud Architecture"],
       achievements: ["AWS Certified", "Open Source Contributor", "Tech Speaker"],
