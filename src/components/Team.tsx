@@ -37,7 +37,7 @@ const Team = () => {
     {
       name: "Muhammad Zahid",
       role: "Full Stack Architect",
-      image: "Muhammad_zahid_jpg",
+      image: "Muhammad_zahid.jpg",
       bio: "Full-stack developer with expertise in modern web technologies and scalable system architecture.",
       specialties: ["React", "Node.js", "Cloud Architecture"],
       achievements: ["AWS Certified", "Open Source Contributor", "Tech Speaker"],
