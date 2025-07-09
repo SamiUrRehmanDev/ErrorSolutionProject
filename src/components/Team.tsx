@@ -8,13 +8,13 @@ const Team = () => {
       name: "Sami Ur Rehman",
       role: "Founder & CEO",
       image: "miansami.jpeg",
-      bio: "Visionary AI researcher and developer, known for pioneering work in machine learning and computer vision. Recipient of multiple academic awards and a published contributor to cutting-edge AI research.",
-      specialties: ["AI Researcher", "Full Stack Development", "Research"],
-      achievements: ["3× Academic Awards", "5× Champion in Coding & AI Competitions", "AI Research Pioneer"],
+      bio: "Full-stack developer with expertise in modern web technologies and scalable system architecture.",
+      specialties: ["React", "NodeJs", "Full Stack Development"],
+      achievements: ["AWS Certified", "Open Source Contributor", "Research Pioneer"],
       social: {
-        linkedin: "https://www.linkedin.com/in/zahid-mittha",
-        github: "https://github.com/zahidyasinmittha?tab=repositories",
-        email: "zahid.mittha@errorsolution.tech"
+        linkedin: "https://www.linkedin.com/in/samiurrehmandev/",
+        github: "https://github.com/SamiUrRehmanDev",
+        email: "samiurrehman.dev@gmail.com"
       },
       gradient: "from-teal-500 to-blue-600",
       icon: Brain
@@ -38,13 +38,13 @@ const Team = () => {
       name: "Muhammad Zahid",
       role: "Full Stack Architect",
       image: "Muhammad_zahid.jpg",
-      bio: "Full-stack developer with expertise in modern web technologies and scalable system architecture.",
-      specialties: ["React", "Node.js", "Cloud Architecture"],
-      achievements: ["AWS Certified", "Open Source Contributor", "Tech Speaker"],
+      bio: "Visionary AI researcher and Full-stack developer with expertise in modern web technologies and scalable system architecture.",
+      specialties: ["Full stack Developer", "LLM", "Cloud Architecture"],
+      achievements: ["3× Academic Awards", "5× Champion in Coding & AI Competitions", "AI Research Pioneer"],
       social: {
-        linkedin: "#",
-        github: "#",
-        email: "marcus@errorsolution.com"
+        linkedin: "https://www.linkedin.com/in/zahid-mittha",
+        github: "https://github.com/zahidyasinmittha?tab=repositories",
+        email: "zahid.mittha@errorsolution.tech"
       },
       gradient: "from-blue-500 to-cyan-600",
       icon: Eye
